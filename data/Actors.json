@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"BarbBat","characterIndex":0,"characterName":"BarbWalk","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"BarbaraFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Babbi","nickname":"II","note":"","profile":"Editora do Versus"},
+{"id":2,"battlerName":"MarcoLut","characterIndex":0,"characterName":"MarcoWalk","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"MarcoFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marco","nickname":"I","note":"","profile":""}
+]
